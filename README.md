@@ -13,3 +13,7 @@ Oh, and and the responses are in polish, but they're just feedback that doesn't 
 For two above commands, you could use [rzadkie/ewolucja] instead of pokemon - the first shows rare pokemon in my area, the second shows a bit less desirable pokemon, for evolution (zubat/drowzee/paras/etc)
 
 /list - shows you the list
+
+## My normal usage
+
+I start pogom, then the script. I go into Telegram and type /start 2, /add rzadkie, /add ewolucja. Then I go into Firefox, go into notify and I set it to notify to all pokemon. Once the script starts working, I go outside and hunt :) Enjoy!
